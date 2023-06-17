@@ -1,8 +1,9 @@
 # testando_trabalho_conjunto
-copiloto
-fazendo alterações.
-
-área para compartilhar repositorios.
-````
-fork
-````
+## Piloto e copiloto
+#### Passo a passo de como trabalhar em conjunto usando "fork"
+##### (PILOTO).
+- clique em "New" para criar um repositório
+-  Nomeie seu repositório e adicione "Add a README file"
+-  Create repository.
+##### (COPILOTO). 
+-
